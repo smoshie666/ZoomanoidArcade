@@ -1,0 +1,1391 @@
+fileFormatVersion: 2
+guid: a79729b1913571e4cb13fa0c17e7d184
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4209798607175880710
+    second: scanlines_0
+  - first:
+      213: -4481632044655184397
+    second: scanlines_1
+  - first:
+      213: -8213316369057112233
+    second: scanlines_2
+  - first:
+      213: 7787907276342421422
+    second: scanlines_3
+  - first:
+      213: 6665051308056449751
+    second: scanlines_4
+  - first:
+      213: -5774226710785305288
+    second: scanlines_5
+  - first:
+      213: 1800229130627907642
+    second: scanlines_6
+  - first:
+      213: 4443067255575154571
+    second: scanlines_7
+  - first:
+      213: 7941119721789214197
+    second: scanlines_8
+  - first:
+      213: 3492697884027435946
+    second: scanlines_9
+  - first:
+      213: 490508400542520832
+    second: scanlines_10
+  - first:
+      213: 351454876025420814
+    second: scanlines_11
+  - first:
+      213: 3043769055477258632
+    second: scanlines_12
+  - first:
+      213: 4906676673961966511
+    second: scanlines_13
+  - first:
+      213: -4580150853309415524
+    second: scanlines_14
+  - first:
+      213: 6024265720238704579
+    second: scanlines_15
+  - first:
+      213: -7989390106339020166
+    second: scanlines_16
+  - first:
+      213: 613760828435227072
+    second: scanlines_17
+  - first:
+      213: -5921649623658943683
+    second: scanlines_18
+  - first:
+      213: -3511745303525651352
+    second: scanlines_19
+  - first:
+      213: -6759258040388909845
+    second: scanlines_20
+  - first:
+      213: 5856296568586915242
+    second: scanlines_21
+  - first:
+      213: 400723330420758693
+    second: scanlines_22
+  - first:
+      213: -6251416846628728817
+    second: scanlines_23
+  - first:
+      213: -5161038803048198149
+    second: scanlines_24
+  - first:
+      213: 5661390677114445597
+    second: scanlines_25
+  - first:
+      213: -3080873846929688114
+    second: scanlines_26
+  - first:
+      213: 3836770172093204280
+    second: scanlines_27
+  - first:
+      213: -8206032955806938265
+    second: scanlines_28
+  - first:
+      213: -8081047334121344891
+    second: scanlines_29
+  - first:
+      213: 569495710225693773
+    second: scanlines_30
+  - first:
+      213: 467778051087512132
+    second: scanlines_31
+  - first:
+      213: 4022974187154635748
+    second: scanlines_32
+  - first:
+      213: 4839215283759209643
+    second: scanlines_33
+  - first:
+      213: 4286933322780495164
+    second: scanlines_34
+  - first:
+      213: 3303446985112350778
+    second: scanlines_35
+  - first:
+      213: 3341242612816189159
+    second: scanlines_36
+  - first:
+      213: -4443160057520250090
+    second: scanlines_37
+  - first:
+      213: 8771787832384605132
+    second: scanlines_38
+  - first:
+      213: 6431483296691558295
+    second: scanlines_39
+  - first:
+      213: 8109923480652148989
+    second: scanlines_40
+  - first:
+      213: -3857073929424865460
+    second: scanlines_41
+  - first:
+      213: 2143249495339905247
+    second: scanlines_42
+  - first:
+      213: 2617661974079415971
+    second: scanlines_43
+  - first:
+      213: 7607826924228389629
+    second: scanlines_44
+  - first:
+      213: -1995650041364700043
+    second: scanlines_45
+  - first:
+      213: -1639950453709568938
+    second: scanlines_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: scanlines_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 505
+        width: 512
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60017ac57853c6a30800000000000000
+      internalID: 4209798607175880710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 494
+        width: 512
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5f15c666b0ec1c0800000000000000
+      internalID: -4481632044655184397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 483
+        width: 512
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f13724740740e80800000000000000
+      internalID: -8213316369057112233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 512
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7e11ed764341c60800000000000000
+      internalID: 7787907276342421422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 461
+        width: 512
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2157a0ad40f7c50800000000000000
+      internalID: 6665051308056449751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 512
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835d1135663dddfa0800000000000000
+      internalID: -5774226710785305288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 439
+        width: 512
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3003653bd2bbf810800000000000000
+      internalID: 1800229130627907642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 428
+        width: 512
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f0ab9e022f8ad30800000000000000
+      internalID: 4443067255575154571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 417
+        width: 512
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd48182056843e60800000000000000
+      internalID: 7941119721789214197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 406
+        width: 512
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabb63d683e887030800000000000000
+      internalID: 3492697884027435946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 395
+        width: 512
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0069ead9ac2aec600800000000000000
+      internalID: 490508400542520832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 512
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0cf210095e90e400800000000000000
+      internalID: 351454876025420814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 373
+        width: 512
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8895c0254d3ad3a20800000000000000
+      internalID: 3043769055477258632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 362
+        width: 512
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabb2333074081440800000000000000
+      internalID: 4906676673961966511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 512
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f3acac0190070c0800000000000000
+      internalID: -4580150853309415524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 512
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7046f21cd7a9350800000000000000
+      internalID: 6024265720238704579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 329
+        width: 512
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7274a3270cff1190800000000000000
+      internalID: -7989390106339020166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 318
+        width: 512
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c16eebb834848800800000000000000
+      internalID: 613760828435227072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 307
+        width: 512
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3bab71aa0312dda0800000000000000
+      internalID: -5921649623658943683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 512
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c05b1a046c34fc0800000000000000
+      internalID: -3511745303525651352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 285
+        width: 512
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be48a65df9a4232a0800000000000000
+      internalID: -6759258040388909845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 274
+        width: 512
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad46fd73beb54150800000000000000
+      internalID: 5856296568586915242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 263
+        width: 512
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8d0f2feb7af8500800000000000000
+      internalID: 400723330420758693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 512
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f005dc9df718e39a0800000000000000
+      internalID: -6251416846628728817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 241
+        width: 512
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff0e409d8e4068b0800000000000000
+      internalID: -5161038803048198149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 512
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f5d1453dc419e40800000000000000
+      internalID: 5661390677114445597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 221
+        width: 512
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9f6f33f898e35d0800000000000000
+      internalID: -3080873846929688114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 512
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8370e68b422fe3530800000000000000
+      internalID: 3836770172093204280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 197
+        width: 512
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b8afd01805e1e80800000000000000
+      internalID: -8206032955806938265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 512
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580749cc34a5adf80800000000000000
+      internalID: -8081047334121344891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 512
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c7c15c45147e700800000000000000
+      internalID: 569495710225693773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 512
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442bbc8b8a1ed7600800000000000000
+      internalID: 467778051087512132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 512
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ebfae565b974d730800000000000000
+      internalID: 4022974187154635748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 142
+        width: 512
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bacdb1c49a8582340800000000000000
+      internalID: 4839215283759209643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 131
+        width: 512
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3dcd18d42f3e7b30800000000000000
+      internalID: 4286933322780495164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 512
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30f4f1d78338dd20800000000000000
+      internalID: 3303446985112350778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 109
+        width: 512
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e69e45247a7e5e20800000000000000
+      internalID: 3341242612816189159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 512
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6132d43f779b652c0800000000000000
+      internalID: -4443160057520250090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87
+        width: 512
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbc0620f86abb970800000000000000
+      internalID: 8771787832384605132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 512
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797982e9bf7314950800000000000000
+      internalID: 6431483296691558295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 512
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0fedbff6c3c8070800000000000000
+      internalID: 8109923480652148989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 512
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47f53462bbe87ac0800000000000000
+      internalID: -3857073929424865460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 512
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd035c28f0a5ebd10800000000000000
+      internalID: 2143249495339905247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 512
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a62d0b42bdc35420800000000000000
+      internalID: 2617661974079415971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 21
+        width: 512
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa2943974e649960800000000000000
+      internalID: 7607826924228389629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 512
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574a67c5cd60e44e0800000000000000
+      internalID: -1995650041364700043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scanlines_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654866d40c9bd39e0800000000000000
+      internalID: -1639950453709568938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      scanlines_0: 4209798607175880710
+      scanlines_1: -4481632044655184397
+      scanlines_10: 490508400542520832
+      scanlines_11: 351454876025420814
+      scanlines_12: 3043769055477258632
+      scanlines_13: 4906676673961966511
+      scanlines_14: -4580150853309415524
+      scanlines_15: 6024265720238704579
+      scanlines_16: -7989390106339020166
+      scanlines_17: 613760828435227072
+      scanlines_18: -5921649623658943683
+      scanlines_19: -3511745303525651352
+      scanlines_2: -8213316369057112233
+      scanlines_20: -6759258040388909845
+      scanlines_21: 5856296568586915242
+      scanlines_22: 400723330420758693
+      scanlines_23: -6251416846628728817
+      scanlines_24: -5161038803048198149
+      scanlines_25: 5661390677114445597
+      scanlines_26: -3080873846929688114
+      scanlines_27: 3836770172093204280
+      scanlines_28: -8206032955806938265
+      scanlines_29: -8081047334121344891
+      scanlines_3: 7787907276342421422
+      scanlines_30: 569495710225693773
+      scanlines_31: 467778051087512132
+      scanlines_32: 4022974187154635748
+      scanlines_33: 4839215283759209643
+      scanlines_34: 4286933322780495164
+      scanlines_35: 3303446985112350778
+      scanlines_36: 3341242612816189159
+      scanlines_37: -4443160057520250090
+      scanlines_38: 8771787832384605132
+      scanlines_39: 6431483296691558295
+      scanlines_4: 6665051308056449751
+      scanlines_40: 8109923480652148989
+      scanlines_41: -3857073929424865460
+      scanlines_42: 2143249495339905247
+      scanlines_43: 2617661974079415971
+      scanlines_44: 7607826924228389629
+      scanlines_45: -1995650041364700043
+      scanlines_46: -1639950453709568938
+      scanlines_5: -5774226710785305288
+      scanlines_6: 1800229130627907642
+      scanlines_7: 4443067255575154571
+      scanlines_8: 7941119721789214197
+      scanlines_9: 3492697884027435946
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
