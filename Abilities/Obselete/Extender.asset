@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff2035579874e234ab82b55c274ad9e3, type: 3}
+  m_Name: Extender
+  m_EditorClassIdentifier: 
+  ability:
+    transformation: {fileID: 7590385161981444033, guid: 4014e69d5843bac4188efda9d90b75de, type: 3}
+    shooters: []
+    _balls: []
+  guns: 0
+  scoreBonus: 300
+  extraLives: 0
+  isShooter: 0
+  hasBalls: 0
+  isExtended: 1
+  isFlying: 0
+  isScoreBonus: 0
+  isSlowBall: 0
+  isExtraLife: 0
+  isCatcher: 0

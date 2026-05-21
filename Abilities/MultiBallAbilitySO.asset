@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f102a509c40035045a24ee02494b5c9f, type: 3}
+  m_Name: MultiBallAbilitySO
+  m_EditorClassIdentifier: Assembly-CSharp::MultiBallAbilitySO
+  abilityType: 6
+  abilityMode: 1
+  textAnimation: {fileID: 0}
+  abilityName: Multi Ball
+  duration: 5
+  transformation: {fileID: 0}
+  extraBalls:
+  - {fileID: 8738910764894737269, guid: ede642172116d51479f91d32c00dbae1, type: 3}
+  - {fileID: 8738910764894737269, guid: ede642172116d51479f91d32c00dbae1, type: 3}
+  - {fileID: 8738910764894737269, guid: ede642172116d51479f91d32c00dbae1, type: 3}
